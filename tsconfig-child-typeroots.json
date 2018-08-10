@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig-base-types",
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types"]
+  }
+}
